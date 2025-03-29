@@ -2,7 +2,7 @@
 
 This is a portfolio website project built with [ HTML, CSS, JavaScript, React, Next.js, etc.].  
 It showcases my skills, experience, and projects in a clean and interactive design.  
-)  
+
 
 ## 📂 Project Structure  
 
